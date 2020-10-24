@@ -1,0 +1,32 @@
+{
+  "name": "webserver_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node birthday.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git-manage": "^1.0.1",
+    "mysql": "^2.18.1",
+    "node-schedule": "^1.3.2",
+    "nodemailer": "^6.4.8",
+    "serialport": "^9.0.2",
+    "string_decoder": "^1.3.0",
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniau/webserver_node.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Aniau/webserver_node/issues"
+  },
+  "homepage": "https://github.com/Aniau/webserver_node#readme",
+  "description": ""
+}
